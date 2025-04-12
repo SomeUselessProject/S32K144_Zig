@@ -1,0 +1,12 @@
+# special for zig
+zig-out/
+.zig-cache/
+*.o
+*.exe         
+*.so          
+*.a
+
+# vscode
+.vscode/
+.VSCodeCounter/
+
